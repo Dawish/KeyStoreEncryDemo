@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KeyStoreEncryDemo.iml" filepath="$PROJECT_DIR$/KeyStoreEncryDemo.iml" />
+      <module fileurl="file://F:\DanxTestCode\KeyStoreEncryDemo\KeyStoreEncryDemo.iml" filepath="F:\DanxTestCode\KeyStoreEncryDemo\KeyStoreEncryDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\DanxTestCode\KeyStoreEncryDemo\app\app.iml" filepath="F:\DanxTestCode\KeyStoreEncryDemo\app\app.iml" />
     </modules>
   </component>
 </project>

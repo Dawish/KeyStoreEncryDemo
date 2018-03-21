@@ -22,6 +22,17 @@ import javax.security.auth.x500.X500Principal;
 /**
  * Created by xiongyu on 2016/12/1.
  *  使用ksyStore加密工具类
+ *
+ *  Android使用KeyStore对数据进行加密
+ *  http://blog.csdn.net/u010123643/article/details/54632594
+ *
+ *  Android： AndroidKeyStore 对数据进行签名和验证
+ *  http://blog.csdn.net/huangxiaoguo1/article/details/78237142
+ *
+ *  深入理解Android之Java Security第一部分
+ *  http://blog.csdn.net/Innost/article/details/44081147
+ *
+ *
  */
 
 public class EncryUtils {
